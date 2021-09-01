@@ -222,7 +222,7 @@ export function App() {
             <br />
             <hr />
             <p>
-                The button below will deploy a SupplyChain smart contract where you can add a new product and control the shipping processes.
+                The button below will deploy a SupplyChain smart contract where you can add a new product and control the supply processes.
             </p>
             <button onClick={deployContract} disabled={!balance}>
                 Deploy contract
